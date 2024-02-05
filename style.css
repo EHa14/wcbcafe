@@ -80,7 +80,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/main-bg.png),linear-gradient(#c9ffbf, #ffafbd);
+    background-image: url(../main-bg.png),linear-gradient(#c9ffbf, #ffafbd);
     background-blend-mode: luminosity;
     min-height: 100vh;
 } 
@@ -91,7 +91,7 @@ img {
 
 /*---   NEWS ---*/
 #news {
-    background-image: url(../images/ad-bg.png);
+    background-image: url(../ad-bg.png);
     height: 270px;
     margin-bottom: 100px;
 }
@@ -295,7 +295,7 @@ aside p {
 
 /*--- menu ---*/
 #menu {
-    background-image: url(../images/menu-bg.png);
+    background-image: url(../menu-bg.png);
     min-height: 100vh;
 }
 
@@ -331,7 +331,7 @@ aside p {
 
 /*--- contact ---*/
 #contact {
-    background-image: url(../images/contact-bg.png);
+    background-image: url(../contact-bg.png);
     min-height: 100vh;
 }
 
