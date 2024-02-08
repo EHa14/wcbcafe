@@ -81,7 +81,7 @@ img {
 }
 #home {
     background-image:linear-gradient(#c9ffbf, #ffafbd);
-    <img src=".wcbcafe/main-bg.png">
+    <img src="../wcbcafe/main-bg.png">
     background-blend-mode: luminosity;
     min-height: 100vh;
 } 
@@ -296,7 +296,7 @@ aside p {
 
 /*--- menu ---*/
 #menu {
-    background-image: url(../menu-bg.png);
+    background-image: url("../wcbcafe/menu-bg.png");
     min-height: 100vh;
 }
 
@@ -332,7 +332,7 @@ aside p {
 
 /*--- contact ---*/
 #contact {
-    background-image: url("contact-bg.png");
+    background-image: url("../wcbcafe/contact-bg.png");
     min-height: 100vh;
 }
 
