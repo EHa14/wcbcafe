@@ -80,7 +80,8 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url("main-bg.png"),linear-gradient(#c9ffbf, #ffafbd);
+    background-image:linear-gradient(#c9ffbf, #ffafbd);
+    <img src=".wcbcafe/main-bg.png">
     background-blend-mode: luminosity;
     min-height: 100vh;
 } 
@@ -91,7 +92,7 @@ img {
 
 /*---   NEWS ---*/
 #news {
-    background-image: url("ad-bg.png");
+    background-image: url("../wcbcafe/ad-bg.png");
     height: 270px;
     margin-bottom: 100px;
 }
