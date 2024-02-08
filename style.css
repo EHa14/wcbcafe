@@ -80,8 +80,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image:linear-gradient(#c9ffbf, #ffafbd);
-    <img src="../wcbcafe/main-bg.png">
+    background-image: url("../wcbcafe/main-bg.png"),linear-gradient(#c9ffbf, #ffafbd);
     background-blend-mode: luminosity;
     min-height: 100vh;
 } 
@@ -332,7 +331,7 @@ aside p {
 
 /*--- contact ---*/
 #contact {
-    background-image: url("../wcbcafe/contact-bg.png");
+    background: url("../wcbcafe/contact-bg.png");
     min-height: 100vh;
 }
 
